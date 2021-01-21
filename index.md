@@ -1,5 +1,5 @@
 
-## CSS styles
+
 <style>
 .resp-container {
     position: relative;
@@ -18,7 +18,7 @@
 </style>
 
 
-## html iframe to embed the slide.
+
 
 <div class="resp-container">
     <iframe class="testiframe" src="https://github.com/ale-tom/Intro-to-Open-Science/blob/gh-pages/OS_slides.html">
